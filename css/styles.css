@@ -1,0 +1,14 @@
+#nav {
+height: 100px;
+background-color: aquamarine;
+}
+
+#section {
+    height: 400px;
+    background-color: blueviolet;
+}
+
+#footer {
+    height: 100px;
+    background-color: rgb(45, 42, 111);
+}
